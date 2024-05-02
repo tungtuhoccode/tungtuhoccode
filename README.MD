@@ -6,7 +6,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-* 😃 My name is Tung Tran, and I'm a 3rd-year Computer Science student at Carleton Univeristy
+* 😃 I'm a 3rd-year Computer Science student at Carleton Univeristy
 
 * 💻 Area of interest: Full-stack Development, Cloud Infrastructure and DevOps
 
