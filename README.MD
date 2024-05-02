@@ -83,12 +83,9 @@
           
 <!--PostgreSQL-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="mysql" width="45" height="45" />
+</p>
 
-
-
-<h3></h3>
-&nbsp;
-&nbsp;
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 &nbsp;
 
@@ -112,7 +109,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 &nbsp;
-
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/>
           
