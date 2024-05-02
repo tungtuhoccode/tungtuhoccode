@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi There, it's Tung 👋&height=100&section=header"/>
+  <img src="https://github.com/tungtuhoccode/tungtuhoccode/blob/main/github-header-image.png"/>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
