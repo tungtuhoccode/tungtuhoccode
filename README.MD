@@ -2,9 +2,7 @@
   <img src="https://github.com/tungtuhoccode/tungtuhoccode/blob/main/github-header-image.png"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
-</p>
+<img width="110%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
