@@ -65,7 +65,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="css3" width="45" height="45" />
 &nbsp;
 
-
 <!--Material UI-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="nodejs" width="45" height="45" />
 &nbsp;
@@ -84,7 +83,7 @@
           
 <!--PostgreSQL-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="mysql" width="45" height="45" />
-
+</p>
 
 
 
