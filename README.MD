@@ -112,7 +112,7 @@
           
 </p>
 
-<h3>Github Stats</h3>
+<h2>Github Stats</h2>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tungtuhoccode&show_icons=true&theme=radical" alt="Tung tu hoc code" />
 </a>
