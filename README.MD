@@ -112,11 +112,13 @@
           
 </p>
 
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tungtuhoccode&show_icons=true&theme=radical" alt="Tung tu hoc code" />
+</a>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tungtuhoccode&show_icons=true&theme=radical" alt="Tung tu hoc code" />
-</a>
 
