@@ -2,6 +2,10 @@
   <img src="https://github.com/tungtuhoccode/tungtuhoccode/blob/main/github-header-image.png"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
+</p>
+
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 * 😃 My name is Tung Tran, and I'm a 3rd-year Computer Science student at Carleton Univeristy
