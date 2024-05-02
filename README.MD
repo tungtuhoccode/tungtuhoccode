@@ -83,9 +83,7 @@
           
 <!--PostgreSQL-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="mysql" width="45" height="45" />
-</p>
 
-<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 &nbsp;
 
