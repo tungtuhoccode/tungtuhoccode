@@ -1,4 +1,3 @@
-Version 1: 
 <p align="center">
   <img src="https://github.com/tungtuhoccode/tungtuhoccode/blob/main/github-header-image.png"/>
 </p>
