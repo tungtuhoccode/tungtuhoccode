@@ -52,6 +52,17 @@
 <p align="left">
 
 <!-- React -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width=110 />
+          
+<!--HTML-->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" width=110/>
+&nbsp;
+
+<!--CSS-->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width=99 />
+&nbsp; 
+
+<!-- React -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
 &nbsp;
           
@@ -62,6 +73,8 @@
 <!--CSS-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="html" width="45" height="45" />
 &nbsp; 
+
+
 
 <!--TailwindCSS-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="css3" width="45" height="45" />
