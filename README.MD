@@ -10,7 +10,7 @@
 
 * 💡 I’m currently learning: AWS Solution Architect, DevOps and Backend Development
 
-* 👨‍🍳 Fun fact:  I love baking just as much as I love coding 🥐.   
+* 👨‍🍳 Fun fact:  I love baking just as much as I love coding 🥐 
 
 ---  
   
