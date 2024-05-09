@@ -118,11 +118,7 @@
   <img align="left" src="https://tung-github-readme-stats.vercel.app/api?username=tungtuhoccode&show_icons=true&theme=radical" alt="Tung tu hoc code" width="50%" height="300" />
   <img align="left" src="https://tung-github-readme-stats.vercel.app/api/top-langs/?username=tungtuhoccode&layout=compact&langs_count=8" width="50%" height="300"/>
 </p>
-<a>
-  <img align="center" src="https://tung-github-readme-stats.vercel.app/api?username=tungtuhoccode&show_icons=true&theme=radical" alt="Tung tu hoc code" />
-</a>
 
-![Top Langs](https://tung-github-readme-stats.vercel.app/api/top-langs/?username=tungtuhoccode&layout=compact&langs_count=8)
 
 
 <p align="center">
