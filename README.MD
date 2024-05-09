@@ -114,12 +114,8 @@
 </p>
 
 <h2>⭐️ Github Stats</h2>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tungtuhoccode&show_icons=true&theme=radical" alt="Tung tu hoc code" />
-</a>
-
 <a>
-  <img align="center" src="https://tung-github-readme-stats.vercel.app/api?username=tungtuhoccode&show_icons=true&theme=radical&hide_border=true" alt="Tung tu hoc code" />
+  <img align="center" src="https://tung-github-readme-stats.vercel.app/api?username=tungtuhoccode&show_icons=true&theme=radical" alt="Tung tu hoc code" />
 </a>
 
 
