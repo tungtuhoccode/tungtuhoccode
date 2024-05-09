@@ -116,7 +116,7 @@
 <h2>⭐️ Github Stats</h2>
 <p float="left">
   <img align="left" src="https://tung-github-readme-stats.vercel.app/api?username=tungtuhoccode&show_icons=true&theme=radical" alt="Tung tu hoc code" />
-  <img align="left" src="https://tung-github-readme-stats.vercel.app/api/top-langs/?username=tungtuhoccode&layout=compact&langs_count=8" height="300"/>
+  <img align="left" src="https://tung-github-readme-stats.vercel.app/api/top-langs/?username=tungtuhoccode&layout=compact&langs_count=8" height="200"/>
 </p>
 
 
