@@ -118,7 +118,7 @@
   <img align="center" src="https://tung-github-readme-stats.vercel.app/api?username=tungtuhoccode&show_icons=true&theme=radical" alt="Tung tu hoc code" />
 </a>
 
-![Top Langs](https://tung-github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://tung-github-readme-stats.vercel.app/api/top-langs/?username=tungtuhoccode&layout=compact)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
