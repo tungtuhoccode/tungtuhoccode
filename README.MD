@@ -71,7 +71,7 @@
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="nodejs"/>
 </p>
 
-<h3>&nbsp;<ins>Backend and DevOps</ins></h3>
+<h3>&nbsp;<ins>Backend</ins></h3>
 <p>
 <!--NodeJS-->
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
