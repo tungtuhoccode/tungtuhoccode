@@ -8,8 +8,6 @@
 
 * 💻 Area of interest: Full-stack Development, Cloud Infrastructure and DevOps
 
-* 💡 I’m currently doing/learning: Algorithm Research, AWS Solution Architect, and Backend Development
-
 * 👨‍🍳 Fun fact:  I love baking just as much as I love coding 🥐 
 
 ---  
