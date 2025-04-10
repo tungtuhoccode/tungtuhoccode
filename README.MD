@@ -6,7 +6,7 @@
 
 * 😃 I'm a 3rd-year Computer Science student at Carleton Univeristy
 
-* 💻 Area of interest: Full-stack Development, Cloud Infrastructure and DevOps
+* 💻 Area of interest: Full-stack Development, Cloud Technologies and AI 
 
 * 👨‍🍳 Fun fact:  I love baking just as much as I love coding 🥐 
 
