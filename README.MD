@@ -8,7 +8,7 @@
 
 * 💻 Area of interest: Full-stack Development, Cloud Technologies and AI 
 
-* 👨‍🍳 Fun fact:  I love baking just as much as I love coding 🥐 
+* 👨‍🍳 Fun fact:  Baking is just as fun as coding 🥐 
 
 ---  
   
